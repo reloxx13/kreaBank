@@ -315,7 +315,7 @@ $linkback = '<a href="' . ($backtopage ? $backtopage : DOL_URL_ROOT . '/admin/mo
 print load_fiche_titre($langs->trans($title), $linkback, 'title_setup');
 
 $head = kreabankAdminPrepareHead();
-print dol_get_fiche_head($head, 'settings', $langs->trans($title), -1, 'kreabank@kreabank');
+print dol_get_fiche_head($head, 'settings', $langs->trans($title), -1, 'bank.svg@kreabank');
 
 print '<div class="opacitymedium">' . $langs->trans('KreaBankSetupPage') . '</div><br>';
 if (!$mlRuntimeSupported) {

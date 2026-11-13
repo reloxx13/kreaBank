@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.19.43 — 2026-11-13
+
+- Use bundled, contrast-safe bank icons in module information and settings; remove image dependencies on KreaProducts.
+
 ## 1.19.42 — 2026-11-13
 
 - Complete the German locale and translate hard-coded import, history and setup
