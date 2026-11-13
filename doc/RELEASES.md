@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.19.42 — 2026-11-13
+
+- Complete the German locale and translate hard-coded import, history and setup
+  labels, including reconciliation types and diagnostic statuses.
+
 ## 1.19.41 — 2026-11-13
 
 - Reconcile customer credit-note refunds, including multiple notes against one
