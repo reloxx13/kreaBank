@@ -662,3 +662,10 @@ KreaBankDraftInvoiceValidated=Invoice validated. Review the invoice before recor
 KreaBankDraftInvoiceChanged=This draft invoice review expired or changed. Reload the statement line and review it again.
 KreaBankDraftInvoiceNativeValidation=Open the invoice to validate it with the required warehouse and stock options.
 KreaBankDraftInvoiceOpen=Validate on invoice
+
+KreaBankReviewExistingCreditNote=Customer credit note
+KreaBankReviewConsequenceCreditNote=Records a native customer refund payment and links it to this bank debit.
+KreaBankReviewRefundCreditNote=Refund this credit note
+KreaBankReviewSelectRefund=Select for combined refund
+KreaBankReviewRefundSelected=Refund selected credit notes
+KreaBankReviewRefundSelectionHelp=Select the credit notes refunded by this debit. Their allocations must exactly equal its remaining amount.

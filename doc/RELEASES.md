@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.19.41 — 2026-11-13
+
+- Reconcile customer credit-note refunds, including multiple notes against one
+  outgoing movement, through signed manual review and native negative payments.
+  Preserve the existing bank row and reject stale, converted or duplicate refunds.
+
 ## 1.19.40 — 2026-11-06
 
 - Carry explicit all-accounts context on pending transaction links so Next and

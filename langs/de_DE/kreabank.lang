@@ -380,3 +380,10 @@ KreaBankReviewMatched=Treffer einzeln prüfen
 KreaBankReviewPosition=Treffer %s von %s
 KreaBankSelectMatch=Diesen Treffer auswählen
 KreaBankConfirmCurrentMatch=Diesen Treffer abgleichen
+
+KreaBankReviewExistingCreditNote=Kundengutschrift
+KreaBankReviewConsequenceCreditNote=Erfasst eine native Kundenrückzahlung und verknüpft sie mit dieser Bankbelastung.
+KreaBankReviewRefundCreditNote=Diese Gutschrift erstatten
+KreaBankReviewSelectRefund=Für gemeinsame Rückzahlung auswählen
+KreaBankReviewRefundSelected=Ausgewählte Gutschriften erstatten
+KreaBankReviewRefundSelectionHelp=Die mit dieser Belastung erstatteten Gutschriften auswählen. Ihre Zuordnungen müssen exakt dem offenen Betrag entsprechen.
